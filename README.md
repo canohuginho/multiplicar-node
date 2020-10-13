@@ -2,4 +2,8 @@
 
 Esta es una aplicación para generar tablas de multiplicar
 
-Ejecutar este comando: npm install
+Ejecutar este comando:
+
+```
+npm install
+```
